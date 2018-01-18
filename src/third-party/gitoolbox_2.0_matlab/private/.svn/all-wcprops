@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/Beta%20Version%201.1/private
+END
+SetTransition.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/Beta%20Version%201.1/private/SetTransition.m
+END
+GetTransitionState.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/Beta%20Version%201.1/private/GetTransitionState.m
+END
+DeleteTransition.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/Beta%20Version%201.1/private/DeleteTransition.m
+END
+AddNewBlueStates.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/Beta%20Version%201.1/private/AddNewBlueStates.m
+END
+GetSourceState.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/Beta%20Version%201.1/private/GetSourceState.m
+END

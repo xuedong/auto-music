@@ -1,0 +1,16 @@
+Directory "implicita" contains samples coded with "implicit notation".
+There are samples from different musical styles, organized in directories named
+as:
+
+- /bach (100 melodies from Johann Sebastian Bach). 
+   * Each melody is included in an archive called "bach[00-99].imp"
+   * All melodies are included in archive "bachimp.all"
+
+- /scot (100 melodies from Scott Joplin).
+   * Each melody is included in an archive called "scot[00-99].imp"
+   * All melodies are included in archive "scotimp.all"
+   
+- /grego (100 melodies from Gregorian Chant). --> Archive "gregdif.all"
+   * Each melody is included in an archive called "gre[00-99].imp"
+   * All melodies are included in archive "greimp.all"
+   * Directory /other contains two more samples form Gregorian style.

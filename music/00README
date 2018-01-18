@@ -1,0 +1,15 @@
+This is a small corpus of strings that represent melodies belonging to
+three different music styles: Gregorian, Bach and Scott Joplin.
+100 melodies of each style have been collected and represented in
+several string formats:  explicit, implicit and diferential.
+Explicit notation represents each musical note as a substring of
+identical symbols, where each simbol represent the pitch and the
+duration or length is explicitly represented by the number of symbols
+in the substring.  Implicit notation represnts each note as a word
+composed of two (or more) elemental symbols, the first of which represents
+the pitch and the remaining ones the duration in terms of standard
+score notation.  Differential notation, finally is similar to implicit
+notation, except for the pitch, which is represented in a "differential"
+manner; i.e., each symbol stands for the difference from the previous
+note pitch to that of the current one.
+

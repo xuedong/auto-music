@@ -1,0 +1,31 @@
+Directory "diferencial" contains samples coded with "differential notation".
+There are samples from different musical styles, organized in directories named
+as:
+
+- /bach  (100 melodies from Johann Sebastian Bach). --> Archive "bachdif.all"
+- /scot  (100 melodies from Scott Joplin).          --> Archive "scotdif.all"
+- /grego (100 melodies from Gregorian Chant).       --> Archive "gregdif.all"
+
+The order from samples in these archives is the same order they where
+collected, and contiguous ones usually belong to the same musical piece. This
+is why they where reordered randomly and placed in next directory called:
+
+- /randomOrder   --> Contains the above three archives with the melodies in
+                     random order. These archives have been renamed as:
+                     * bachdifRnd.all
+                     * gredifRnd.all
+                     * scotdifRnd.all
+
+- /splitAlphabet --> Contains the same samples coded in a slightly different
+way, called "splitted differential notation" . Here "differential coding" is
+splitted separating characters that code the pitch from characters coding the
+length from musical notes. The archives have been renamed as:
+                     * bachdifSpl.all
+                     * gredifSpl.all
+                     * scotdifSpl.all
+                     * doSplit (converts differential to splitted notation)
+                     - /randomOrder --> Contains the above three archives with
+                       the melodies in random order. Archives renamed as:
+                                       * bachdifSplRnd.all 
+                                       * gredifSplRnd.all
+                                       * scotdifSplRnd.all

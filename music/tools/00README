@@ -1,0 +1,6 @@
+Directory "tools" contains programs that convert into MIDI sound files, files
+representing music coded with the different notations employed. This is useful
+in order to hear and evaluate these files.
+
+- Program "imptomidi" converts from "implicit notation" to MIDI.
+- Program "diftomidi" converts from "differential notation" to MIDI.

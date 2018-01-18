@@ -1,0 +1,6 @@
+Directory "explicita" contains samples coded with "explicit notation".
+There are only samples from Gregorian Chant, included in a directory called
+"grego".
+
+   * Each melody is included in an archive called "gre[00-99].xpl"
+   * All melodies are included in archive "gregoexpl.all"

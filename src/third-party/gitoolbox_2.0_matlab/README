@@ -1,0 +1,30 @@
+=====================================================
+GIToolbox: A Grammatical Inference Toolbox for Matlab
+=====================================================
+
+GIToolbox is a grammatical inference toolbox in Matlab. 
+It provides useful implementations of some grammatical algorithms.
+e.g., RPNI, EDSM, K-testable, Alergia, MDI, OSTIA
+
+This toolbox doesn't need any installation, the only requirement is that 
+you should already install Matlab of any version on your local machine. Or
+you can install Octave (an alternative open source scientific computing platform).
+You can find documentions on our website. 
+
+Algorithms included
+--------
+- RPNI
+- EDSM
+- Ktestable
+- Alergia
+- MDI
+- OSTIA
+--------
+
+We will keep expand our toolbox, please visite our open source website in google 
+code to find any updates if you're interested.
+
+License: MIT
+Author: Hasan Ibne Akram, Huang Xiao
+Website: http://code.google.com/p/gitoolbox/
+

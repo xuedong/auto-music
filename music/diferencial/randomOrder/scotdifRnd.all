@@ -1,0 +1,100 @@
+Ss -1s 1s 2c -2s -5s 2s 1s -1s 1s -6nm 0s -1s 1s 5c -2s -5s 2s 1s -1s 1s -3cp 7c -2c -2c -3c 1c 1s 8s -2s -3s -3c 6c -1c -2c -5c 2c 1s 7s -3s -4s -3n
+Ss -3s 3s -3s 1s 2s 2s 2s 1s -7s 2s -2s -1c 8s -3c -5s 3s -3s 1c 6s -2c -4s 2s -2s -1c 8s -3c -5s 3s -3s 1s 2s 2s 2s 1s -1s 1s 2s 2c -4s -3c -5s 1s -1s 10c -3s -3c -4s 1s -1s 5n
+Ss 1c -1s 1c -1s 1s -5s 1c -3nm 2s 1c -1s 1c -1s 1s -6s 1c -3nm -2s 0c 0s 7c 0c -2s 5c -3s -2s -3s -4c 2s 2s 1s -1c -2c 2s -4c 99c 12n
+Sc -7s 4s 5c 2s 1s 2s 2s 3s -3s -2s -2s -3s -2s -3s -12s 7c -7s 7c -7s 8c 8s 1s 2s 1s 2s 2c 0cp -2s -2s -3s -4c 11cp -2s -2s -5s -3c 0s -2c -9c 11s -2c -2n
+Sf 1f 1c 8s -1s 1s -1s 1s -1s 1s 2c -2nm -10f 2f 1c 7s -1s 1s -1s 1s -1s 1s 2c -2nm -2f 1f 1c 0s -1s 1s 3s -2s -1s 0s -2c 0nm -17f 2f 1c 12s 2s 1s -1s 1c 1c
+Ss 4s 3s 5c -5s -3s -4c 4s 3s 5c -2s -2s -1s 1c -1s -2c -13s 1s 2s 1c -1s -2c 0s 3s 9s 99s -7s 4s 3s 5s -5s -3s -4c 4s 3s 5c -2s -1s -2s 2c -2s -2c -13s 1s 2s 2c -2s -2c
+Sc 4c 5c 3c -10c 3c 4c 5c -14c 12n -1c -2n 2n 1c -1c 1c 2n -2c -3n 0c -2c -2c -1n 3c -3n 0c -1n 1n 2c 1n -4c 3n -2np 0n -3c 3c -5n 4c -2c 2c 1n
+Ss -2s -1s -2c 2s 1s 2s 2nm -10s 3s 2s -2s -2s -1s 1c 2s 2s 1s 2nm 5s -1s -1s -1s -4s -5s -3c 3s 5s 4s -2s -3s -4s -5c 5s 2s 2s 2s 3s 3s 2c -12s -2s 9s -2nm 
+Scp 2c 2s -2c -2cp 2c 2s -2s 2s -4s 5s -3s 3s 4s -9s 5s 4s -7s 3s 4s -9c 9s -7s 7s
+Ss 1s 2s 9s -2s -2s -5s 1s 1s 1s 1s 10c -10s 10cp -14c 9s -2s -2s -5s 1s 1s 1s 1s 10c -10s 10cp -2c -5s 2s 1c -1s -2s 1s 1s -1s 1s 8c -1s 1s -3s 2s -4s -5s 2c 0s 2c 1c
+Sf 1f 1s 5s -2s -5f 1f 1s 5s -2s 0nm 0cp -12f 1f 1s 5s -2s -5f 1f 1s 5s -2s 0np 7c 1s 1c -2n -3c -2s 2s 1s -3s 2c -2c 2n 0s -2c -2nm 12c
+Ss 4s 3s 2n -4n -1np 3c 7c -1s 1c -3s -4c 9c -1s 1c 0s 3c 0s -2s -1s 1c 2s -2c 0s -1s -1s 1c 1s -1c 0s -2s -1s 1c 3s 2c -7np 
+99c Sc 0c 0c -2s 4c -2c -2s -2s -3s -2c 9c 0c 0c 0s -2c 0c -7s 4s 3s 2c 3c -1c -2c -2s -3s 5s -2c -3s -3s -4s 7c -2c 2c -2c -2b
+Ss 2s -2s -2s -1s -1c 1nm 0s -1c 1nm -4s 2c 1c -1s -2c 4n 1s 4s -2s -2s -1s -1c 1cp 8c 0s -1c 0cp 8c 0s -1c 0c 1s -1c -2n
+99s Ss 8s -8s 3s 4c -7s 6s -6s 3s 2c -9s 7s -7s 99s -3s 8s -8s 3s 2c -5s 8s -8s 3s 2c -5s 5c 99s -2s 4s -9s 3s 4c -2s 4s -9s 3s 4c -4s 4c 99s -5s 8s -8s 3s 2c -5s 8s -8s 3s 2c -5s 5c
+99c Sc 2c -2c 99c 7c 2c -2c 99c -2c -1c -2c 0s -2s -1s 1c -3s 1s 2s 2s -4s 4s 2c -2c -4s 2s -3s 3s 2c -2c -7s 4s 0c 0s -2s -2s 2c -2n
+Ss 1s 1s 1c 2s -2c -3s 1s 1s 1c 2s -2c -3s -4s -5s 2s 2s 1s 2s 2s -2s -2s 2s -7s 9s 1s 2s 2s -2s -3s 1s 2c 2s -2c -3s 1s 1s 1c 2s -2c 0s 2s 1s 1s 0c 0c -2s -3s -4s 5np 
+Ss 3s -2s 0c -1s 1s 0s -1s -2s -2s 2s 2s 3c 2c -2s -2s 0c -1s 1s 0s -1s -2s -2c -5cp 5c 4s -2s 0c -1s 1s 0s 2s -2s -2s 2s 2s 3c 0c 2s 2s -4s -5s 7c 5s -2s -6s 1c 7c 5c
+Sc -1c 8s -3c -2s -3s -4s -1s 8c 2s -7c 3c -1c 8s -3c -2s -3s -4s -1s 8c 2s -7c -7c -1st 9st -3st -3c -2st 5st 4st 3c -13st 9st -3st -3c -2st 5st 4st 3s -2s 4s -4s 4s -7s 3s 2s -2s -3s 2s -1s 1s -4s 2s -1s 1s -7s 5c
+Sc 8c -3c -2c -2c 9n 1c 1c -9c 5c -8c 5c -2np 0c 0n 0n 2c -2n 0c 0n 0n 2c -2n
+Ss -3s -4s 2s 2s 8c -1s -2c -2s -2n 0c -3s -3s 1s 2s 9c -2s -2c -2s -1nm -3s 3s 3s 3c -1s -2c -2s -1s 1s 9c -5s -4c 4s -2c -3s 3s -2s -3c -2n 12c
+Sc -2s 2c -2s -3s -4s 14c -2s 2c -2s -3s -4s 19s -7s 5s -1c -2c -5s 3s -3s 5s -2c -7s 4s 3s 5s -7s 4s 3c 2c -2s -5s -7s 4s 3c 2c -2s -5s 10s -1s -2c -7s 2s 2s 1np 
+Ss 2s 2cp -2s -2s 2s 2c -9s 0c 0s 5s 2s 2s -9s 5s 4c -9s 9s 1c -6s 8s -8s 3s 3c -10s 7s 2s 1cp -1s -2s 2s 1c -10s 0c 0s 4s 3s 3s -6s 3s 4c -6s 6s 1c
+Sc 1c 1s -4s 2s 2c 1c -5s 6s -6s 2s 4c 5c -2s -2s -8s 3s 4c -2c -5s 3nm 0s 2s 2s 1s -7s 2s 4c -2c -10s 8nm 0s 2s 2s 1s -8s 3s 4c -2c -9s 7n
+Sc 0cp -2c -1s -2c 5cp -2c -1s -2s 1s 1s 5s -5s 5s -5s 5s -5s 5s 0cp -2cp 1c 1cp -2c -2s -1c 5cp -2c -2s -1s 5s 99s 0s 5s -9s 4s 7c -11s 9s -9s 4s 7c -7s 5c 1c -3c -3c -3c 1cp -7s 4s 3cp 0cp -8s 3s 5c -7nl 
+Scp 0s -1s 1s 3s 5c -1s -2c 0s -2cp -3cp 0s -1s 1s 3s -3s 1c 0s -1s -2s 12s -12s 1s 1cp 0s -1s 1s 3s 5c -1s -2c 0s -2cp 5s -6s 3s 2c 1s -1c 5c
+Ss 5s 4s 3c -7s 2s 2s -5s 1s -3s -2c 1s 1s 1s 1s 3s 3s 4c -1s -1c -7s 4s 3s 2c -1s -1c -12s 5s 4s 3c -7s 2s 2s -5s 1s -3s -2c 2s 1s 6s -5s 3s 5s -3c 5s -7s 9s -4c
+Ss 6s 6s -2c -7s 3s 9s -9s 6s 6s -1c -5s 3s 9s 1c -3c -2c -4s 1c -9s 1s 1c -5s 3c 16c -2c -2c -3s 1c -10s 1s 1c -4s 2c 17c -3c -2c -4s 1c
+Ss 3s 0s -1s -1s 1c -1c 1s 1s -1s -1s 1c -1c 1s 0s -2s -1s 1bm 7s -4s -2s -1s 3s -3s 3c 0c -3s 0s 3s -3s -2c 5c 2s 2s -1s 1s -9c -3c -2s -2n 12c
+99s Ss 4s -9s 5s 4c 3c -3s 5c -2c 2s 2cp -9c -1s 1c 0nl 9c -2c -7c -1s 1c 0nl 10c -1c -9c -1s 1c 0b
+Scp -3s -2s -3s -4c 12cp -3s -2s -3s -4s -2s -1s 8c -9s 4s 2s 1s 1c -9s 5s 4s 3c -3c -7s 8c -9s 4s 2s 1s 1c -9s 5s 4s 5c -2c 0s -3c 0c -4s 2c -2c
+Sc -1s 1c -1s 1c 99s 4s 5s -5s 3s 2s -2s -3s -2c -1s 1c -1s 1c 99s 5s 4s -4s 2s 2s -2s -2s 2c -1s 1c -1s 1c 99s 3s 4s -4s 2s 2s -2s -2s 7s 0s 0n -3c -2c
+Sc 3n -3c 0c -2np -2s -1s -2s 2s 1s 4c 0s -2s -2s -1s 1s 2s 5c 0s -3c 3n -3c 0c -2np 5s -1s -2s 2s 1s 1s 1s 1s 1c
+Ss -3s 3s -7s 4s 3c -7s 4s -3s 3s 1c -1c -4s 4c -2s 2c -2s -2s -3s 7c -2s 2c -2s -2s -3s 8cp -8f 2f 3s 3c -6s 6cp -8f 2f 3s 3c -8s -2c 1s 1c 3c -3s -2c 1s 1n
+Sc 5s -5c -1s 1c 1c -1s -2c 7s -4s -3s 2c 5s -5c -1s 1c 1c -1s -2cp -9c 4s -1s 1s 2s 1s -1s 1s 2s 2c 3n 2c -5n 0c -2c -2n
+Ss 1s 1s 8c -3s -6s 9c -3s -7s 5s 4s 5c -2s -3s -4s -1s 8s -5s -3s -2s 2c -4s 5s 0s 4s 3s 5s -3s -2s -3s -7s 8c -3s -6s 9c -3s -7s 5s 4s 5c -2s -3s -4s 2s 2s -2s -2s -1s 1c -3s -2c 9s -2s 5c
+Ss -2c -2s -1s -1s 1s -2s -2s 2s 2s 3c 5s 4c -7s -2c -2s -1s -1s 1s 1s 2c 0s -3s 3s -3s 3c -7s 12c -12s 12c -12s 12c 4s -4s -8s 3s -1s 1s 2s 2s -4c 4s -2c 2s -4cp 
+Sn -12c 9c -12c 3c 7n -12c 10c -8c 2c 1n -5c 12n 5c -12c 9c -12c 3c 7n -12c 10c -8c 2c 1b
+99s Ss 3s 3s 4s -2c -2s -10s 4s 3s 5c -8s 1s 2s 1s 1c 0c -5s 5c 0c 0s -7s 3s 4c 0n -2s -2s -3s -4c 11cp -2s -2s -5s -3c 4s 1c 2s -2s -10s 3s 5s -7n
+99s Ss 5s 4s 3s -7s 4s 3c -3s 3s -3s 3s -7s 4s 3c -3s 3s -3s 5s 0c -9s 2s -2s 2c 2n 99s -9s 5s 4s 3s -7s 4s 3c -3s 3s -3s 3s -7s 4s 3c -3s 3s -3s 0c -2n -1s 1s 2s -2c -3s -2c -2c
+Scp 2s -2cp 2s 99s 4s -2s -2s -2s -1s 1s -3s 2cp 3s -3cp 3s 99s 5s -1s -2s -2s -1s 1s -3s 12cp -2s -9nm 2s 4s -4s 2s 2s -2s -2s 7cp -2s -8nm 
+Sc -3c 3c -3c 3c 2s 2c -2s -2s -3s 3c -3c -2s 5c -8c 3s 2s -5s 3s 2c -9c 2s -2c 0c 2s -2c 2s 2s -4s 2s 2c -4c 2s 2s -4s 99s 2c -7s 5c 7c 5c
+Ss -2s -1c 0c 3c 0c 0n -1c -2c 0cp 0s 0s -2s 4s -2s 0cp 0s 0s -2s 5s -2s -1c 0c 3c 0c 0n -1c -2c 0c 0c -1cp 3s -2n
+Sc 4s 3c 2s 1c 6s -2s -2c 0n -12c 5s 4c 1s 2c 5s -3s -2c 0n 0c 2s 0c 0c 3s 2s -2s 4c 0cp 3s -1s -2s -2s -3s 5s -2s -2s -6c 8s -7c
+Ss 4c -2s -2s 4c -2s -2s 2s -2s 2s 2s -4c 7s -3s 3s -3s 5s -2c -3s -2s -2s 4s -2c 5n -7s 4c -2s -2s 4c -2s -2s 2s -2s 2s 2s -4c 7s -3s 3s -3s 5s -2c -3s -2s -2s 4s -4s 2c -2cp 
+Ss 1s 1s 10s -12s 1s 1s 10s -12s 1s 1s 10c -2c -5s -5s 2s 1s 9s -12s 2s 1s 9s -12s 2s 1s 7c 0c -7s -1s 1s 1s 9s -11s 1s 1s 9s -11s 2s 1s 2c 0c -2s 10c 0s -3s -2s -3s 0s -2c 5s -7n 12c
+Ss -8s 3s 4c -2c -5s 3s -3s 5s -2c -3s -4s -5s 14s -12s 1s 1s 1s 9s -12s 9s 1s -3s 5s 2c -2c -4s 2s -3s 5s -2c -3s -3s -4s 7c -2c 2c -2c -2bm 
+Sc 5cp 0s -1s -2s 0s -2s -1s 1c -7s 2s 1s 1c 5cp 0s -2s -2s 0s -1s -1s 1c 0s 1s 2s 2s 2c -2c -7s 2s 1s 2s 2c -2c 0s 2s 1s 1s -9c 1s 1c 2c 1np 
+Ss 2s 2s 0s 0s -2s -2s 2s 2c -9s 0c -7s 4s 3s 3s -6s 3s 3c -6s 6s -1c -4s 3s -8s 5s 4c 0c 2s 1s -1s 1s -1s 1s -3s -2c 9cp -7s 4s 3s -2s 0c 2s -2s -7s 7s -7s 5np 
+Sc 4s 1s 2s -3s -6s 4c -2c -1s 1s -3cp -9c 7s 2s 1s -3s -5s 2c -2nm -2c 12c 4s 1s 2s -3s -6s 4c -2c -1s 1s -3c 8s 2s 1s 1s 2s 2s 8s -2s -2s -1s 5s -7c
+Sf 1f 1n 99n -2c 1n 1np 5c -2n 5nm -10f 1f 1n 99n -2c 1n 1bl 3n 2c 3c -3n -5c 3c -3n -7c 3c -3n -5c 3c -3n 10c -2n 0bm 4c -2n -2n 2c -5n 0c -2n 5bl 
+Ss 2s 1c -1c -2c 3n -1c -2n 2n -2c -1bm 3s 1s 2c -2c -1c 3n -2c -1n 1n -1c -2bm 0s 2s 1c -1c -2c 2c 1c 2n 2c 1n -1c -2bm 0s 2s 1c -1c -2c -2c -1c -2n 2c -3n 3c 5bm 
+Sc -2s 6c -2s -5s 5c -2s 0s -12s 2s 2c 1s 2s 1s 1s -9s 2s 2s 1s 9c -2s -7nm -3s 3s 5s 4n -4n -1n 99s 1c -1s -4c -3c 3s 2c -2nl 
+Sc -2s -2c -3c 2s 1c -7np 7c -3s -2c -3c 1s 2c -7np 4c 1s 2s -8s 3s 3s 2c 4s -2c 2s -2c 2s 3s -9s -1s 3s -7s 2s 2s 3c 5s -3c 3s -3c
+Ss -3s 1s 2s 2s 1s 2s 2s 1c -8c 2s -2nm -2s 2s 2s 1s 2s 1s 1c -9c 2s -2nm 16c -1s 1c -1s 1c -2s -4s -3s -3s -2n 12c -1s 1c -1s 1c -2s -3s -4s -3s -2s
+Ss 12c -14s 12c -10s 12c -14s 12c 2c -2c -12s 12c -14s 12c -10s 12c -14s 12c 2c -2c 0s 12c -14s 12c -13s 12c -11s 12c -1c -2c -12s 12c -14s 12c -3c -2c
+99s Ss 3s -3c 8c -13s 12c -14s 12c -14s 12c 99s 0c -3s 3c 2c 2c -6s 6c -6s 6c -16s 7s 3s -3s -6s 6s 3s -3s -5s 5s 3s -3s -4s 4s 3s -3s 3c 2s 2c -4s 6s -6s 4c -1s -1c -3s 3c
+Sc 0cp -3s 1s 2s 9s -4s -3s -2c 0s 5s 4s -2s 0c -1s 1c 1c 1b -9c 0cp -3s 1s 2s 9s -4s -3s -2cp 9c -2s 0c 0s 2c 2c 1b
+Ss 2s 1s 1c -4s 2nm 2c -4s 2c -2s 2s 2s 1c -5s 2nm 99s -9s 4s 3s 5s -3s -2s -3s -7s 8c -3s -6s 9c -3s 99s -7s 5s 4s 5s -2s -3s -9s -1s 6cp -7s 9c -2nm 12c
+Ss 8c -1s -2s -1s 1s 2c -2c -1s 1nm 2c -2s -2s -1s 1s 2c -2c -1s 1nm 0s -3s -2s -1s 3s 3s 3c -1c -2s -2s -1s 1s 4c 3s -1s -2s -2s -3c 3s -2s -1s -2c -2n
+Sn -1n 1n 3n 99s -7s 5s -5s 2s 3c -5s 4n 3n -3n -1c 1c 3n 4n 99s -8s 8s -8s 3s 3s -2s -1s -2n
+Ss 16c -4c -3s -2s -3s -2n 5n -7s 16c -4c -3s -2s -3s -2n 5n 99c 4s 0c -3s 1s 2s 1s 0c 0c -1s 1s 1s 1s 0c 0c -1s 1s 1s 1c
+Sc 3c -5cp -1s 1s -10s 3s 3s 2s 2c -2s 2c 3c -5cp -1s 1s -12s 5s 2s 2s 3s -3s -4s -1s 1s 2s 2s 1s 2s 4s -2c -14s 2s 2c 6s -1s -2s -2s 1s 1s 1s 1s 3s 2s -2c -12s 5s 4c
+Sc 1n 7n -5n 2n -3s 1c -1s 1c -1s 1c 0s -1s 1s -1s 1c 2n 3n -5n -3n -2n 9n -2s -1s 1s 2s -4c
+Ss 3s -1s 1c 3s 1s 5s -1c -4s -2s -2s -1c -3s 1s 3s -1s 1c 3s 1s 5s -1c -4s -2s -2s -1c -3s 1s 7s -1s 1s 5s -5s -1s 1s 1np 0c -1s 1s -1s -2s -3s 3s -2s -1s -2n
+Sc 0c 0s 4s -12s 6s 4s -12c 2s 6s -10s 2s 2c 5s -2c 0s -2s -8s 3c 5s 9s -2s -3nm -4s 4s 3s 0s -2s -1s 1c 2s -2c 0s -1s -1s 1c 1s -1c 0s -2s -1s 1c 3s 2c -7n 12c
+Ss -1s 1s -4c -8s 1s 1s 1s 5s 4s 3c -1s 1c -3s -1s 1s -4c -8s 1s 1s 1s 5s 4s 3c -1s 1c 0s 1s 1s 2c -4s 2s 2s 1s -1s 1s 4c -1s 1c 0s -2s -1s 1c -2s -1s -2s -2np 
+Ss 2s 2s 1s 2s 1s 2s 2s -2s -2s -1s 1c -1s -2c 3s -1s -1s 1c -2s -1c 3s -2s -1s 1c -6s 1c 0s 2s 2s 1s 2s 1s 2s 2s -2s -2s -1s 1c -1s -2c 0s 3s -1s -2c 2s -2c -1c
+Ss -1s 1n 3c 2b -9s -1s 1n 4c 1nl -3s -5c 5s -5c 5s -5c -2n 5n -1s 4s 3s 5c -2s -3s 1s -3n 1n
+Ss 1s -3s -2c 8s 1s 3s 4s 1s -3s -2c 8s 1s -2c -2s -3s 3c -10s 1s 1c -4s 3c -1n -3s 1s -3s -2c 8s 1s 3s 4s 1s -3s -2c 2c 2s 5s 3s 4s 1s -7s 1s 5s -7s -5s -4s -3s -5c
+Ss 0s 0c 0c 4n 3n 2n -2n -2c -3c -2np -7s 2s 2s 1s 2s 2s 2c -2c -2np -5s 2s 1s 2s 2s 2s 1c -3c -2np 
+Sc 1s -1s 1s 2c 2s -2s -2s -1s -1s 1s 5c -2s 2s 1s 1c 0s -1s 1s 1s 2s 1s 1s -4s -1s -2s -2s 2s -2s -3s 1s -1s 1s 2c 2s -2s -2s -1s -1s 1s 5c 3s -1s -2s 2c 0s 3s -1s 1s 2s 2s 1c
+Sc 0s -3c 3s -3c 3s -3c 3s -3c 3c -3c -2s -3c 3s -3c 3s -3c 3s -3c 3c -1c -1s -3c 3s -3c 3s -3c 3s -3c 3c 6c 3s -2c -1cp -2c -2np 
+99s Ss 3s 3s 4s -2c -2s -10s 4s 3s 5c -8s 1s 2s 1s 1c -1s 1c -1s 1nl -9c 1s 1c -4nm 3s 1c -4nm 3s 1c 2s -2s -5s 3s 5s 4b
+99s Ss 5s -5s 2s 3c -3s 3s -5s 2s 3c -5s 5c 99s -7s 4s -7s 2s 5c -5s 5s -7s 3s 4c -7s 6c -1s -7s 4s 5c -5s -3s -4s -3s 6s 2s 2c -4s 2c -2c -5s 2c -2s 4c 1c 99c 12c
+Sc -2n 4n 0s -2s 3s 4c -2s -2c -1s -2s 3s 4c -2s -2c -1s 1s 1s 1c 0s 1c 1s -1s 1s 1c -1s 0c 0s -1s 1s 1c -1s 0c 0s -2s -3s -9c 9s -2c -2n
+Sc 1s 2s 2s -10s 3s 2s 1s -8s 3s 2s 2s -9c 5s -5c 0s 1s 1s 8s -8s 1s 1s 6s -1s -4s 4s 3cp -3c 1s 2s 2s -10s 3s 2s 1s -8s 3s 2s 2s -9c -1s 1s 2s 2s 1s 1s 1s 2s -2s -2s 9s -2np 
+Ss -1s 1s 5c -2s -3s -4s 2c 2s -4c 0s -1s -1s -1s -1s 1s 3s 4s -2s -2s -3s 3c -3s -2c 12s -3s -4s -3s -1s 1s 3s 4s -2s -2s -3s 7s -1s 1s 5c -5s -4s -5s 2s 1s 1s 10cp -2c 9c -2c 0c -2c
+Ss -12s 2s 1s 1s 7c -2s -2c -8s 6n 7c -12s 2s 1s 1s 7c -2s -2c -8s 6n 4c -12s 4s 3s 5s -2c -2cp -1c -2c 7c -2s -12s 2s 1s 1s 8s -10s 2s 1n 12c
+Snm -3s 1s 1s 1s -3s 1s -1c 0s 3s 3s 99s -1s 3s -3s 5s -2c -5np -8s 3s 5s 0nm -7s 2s 1s 1s -4s 2s -2c -3s 3c -1s 8s -5s 2c -4s -3c -2c
+Sc 0nm 0s -5c -2s 7c 0cp 1c 1nm 0s -5c -2s 7c 0cp 0c 0cp -11s 1s 8c -8s 10s -11s 1s 8c -8s 8c 2cp -10s 1s 7c -7s 9s -10s 1s 7cp 
+Ss 1s 1s 8c -8s 8c -8s 8np 0s 2s 1s 1s -4s 2s 2c -5s 3c -2np -10s 1s 1s 8c -8s 8c -8s 8np -3s -2s -1s 3s 3s 4c -2s -2s -3s 5np 
+99s Ss 0s 1s 2s -3c -2s -7s 1s 1s 1c 2s -2c 99s -1s 3s -7s -2s 9c 2s -4c -5s 5s 4s 3c -3s 99s -7s -2s -3s 6s -3c -3s 7s -4s -5s 12c -3s -9s 2s 3cp 2s 2s -2c 2s -4n 12c
+Ss 3s 5s 4c -4s -5s -3s 7c -2c -2n 10s -6s 3s 3c -3s 4s 1c 0s -3s -4s -3s -1s -1s -2s -1s 3s 5s 4c -4s -5s -3s 7c -2c -2c 9c -2s -7s 4s 5c 0s 2c 1np 
+Ss 1s 2s 1s 0c 0np -3s 3s -7s 4s 3c -3s 4s 0c 0np 0s 3s -7s 2s 2cp 5s -2c -2c -1s -2c -1s 1c 0c 2s 1c 4s -2c -3c -2s -2c 3s 1c 0c
+Ss 1s 2s 2c 6s 1s -4s 2c 0s 2s -2s -2s -10s 3s -1s 1s 2s 2c 6s 1s -4s 2c 2s -2s -2s 2s 2s -9s 1s -4s 7s 5c 1s -1c -7s -5s 8s 4c 1s -1c 0s -2s 4s 5c 1s -1s -2s 0s -2s -2s -3s 2s -2s -7s -2s
+Sc -1s -1s -1s -2c 1s 1s 1s 1s 6s 2s -2c 2s -2s -6s 1s -1s -2s -2c 1s 1s 2s 1s 7s 2s -2c 2s -2s -6s 1s 3s 4s 5c -9s -1s -2c -6c -1cp 7c -2s 4s 3s 5c -8s -2s -2c -6c 1cp 
+Sc 1nm 4s 8c 0cp -7c 0s 7c 0cp -1c -1s 1c 0cp -7cp -5c 1nm 4s 3s 2s 2s -4s -1s -2c 6s 1c 0s -5s -2s -1c 7s 1c 0np 
+Ss 6c -9s 7c -10s 6c -8c 5c -7s 2s 2s 1c 2s 2c -4s 4cp 3c -3s 3c 0c 99s 2c -4s 4c -1c 99s -1c -3s 5s -2s -3s -3s -7s 6s 2s 2c -5s 3c -2c 99c 12c
+Sc 2s 2c -2s -2c 12nm -2s -3s 1s 1s 12s -4s -5s 2s -2s -7s 4c 8s -1s -2s 0s -2c -3s 1c 2s -2c -1s -2c -2nm 4s 5s 3s -1s -4s -3s -5c 10s -2s -1s -2np 
+Ss -1s 1s 1s 1s 1s 1s -1s 1s 1s 2s 2s 1s 2s 2s -10s 3s 5c -2s -3s -3s 1s -1s 1s 2s 2s 1s 1s 1s 2s -9s 4s 3c -3s -4c 1s -1s 1s 1s 2s -1s 1s -3s 1s 2s -2s -1s 1s 2s 1s 4s -2s -2s -3s -7c -2s 2s -2s -1s -1c 1c
+Ss 1s 1s 1s 2s -3c 0s 0c 0s 0s 0s 0c 0c 0c -2s -2s 2c -5s 0s -2c 17s -1s -2c 0s -2s -2s -1s 1s 2s -3c 0s 0c 0s 0s 0s 0c 0c 0c -2s -1s 1s 4s 5c -2s 0c -2c
+Sc 3np 2c 3cp -3s -4s -5s 4s -1s 1s 3s 2s 1s -1s -2s -2np -8s 2s 1s 2s -2s -1s 1c -3c -2c 9n 1s -1s -4s -3s 2s 1s 2c 2c -4np 
+Sc 0cp -9s 5s 2s 2s 0c 0c 0s 1s 2s 2c 0cp 0s -2s -2s -1s 0c 0c 0s -2s -2s -1c 0cp -4s 2s 2s 1s 0c 0c 4s -2s -2s -3c 8cp 0s -1s -2s -2c
+Sc 0n 3c 2s -2c 2s -2s 2s -2c 7s -2c 2s -2s 2s -2s -5cp -12s 2s 2s 1s 2s 1s 1c 0n 3c 2s -2c 2s -2s 0s 0c 0s -5c 5s -1s 1s 2c -2nm 
+Sc 0cp -1s -1c 9c -2cp -8s 5c -2c 7s -1s 1s -1s 1c 1c 1np 0c 0cp -2s 9c -2c 0c -2cp -3s -4s -5s 2s 1s 1s 3s -3s 1s 2s 5s -7n 12c
+Ss 0c -2s -1s -1s 1s 3s 5c 7s -3c 5s -2c -12s 0c -2s -1s -1s 1s 3s 5c 7s -3c 5s -2c -2s 0c -1s -2s -1s 1s 1s 1s 1s 2s 2c 2s 1c -1s 1s 1s 1c -12s 7c -2np 
+Ss 2s -2s -3s 1s -3c 2s 1s 2s 2s -5s 1s -3c 2s -4s 4s 3s 2nm 99c 3c -1c -1c -13s 4s 3s 5s 1c -1c -7s 3s 4s 5s 2c -2c -2s -8s -1s 1s 5c -2c -7c 7c 5n
+Sc 0s -1s 1c 0s -1s -1s 5cp 99s -12s 2s 2s 1c -5c -1c -1c -1c -1c -1c 5c 9c 0s -1s 1c 0s 2s 1s -5cp 99c -3s 1s 2s 2cp -5s -2c -2b
+Ss 1s 1s 1c 5c -1c -2c -2s 5c -1c -2s -2s -3s 3c 5c -1c -2c -2s 4c -2c -2s -5s 2s 1c 6c -2c -2c -2s 6c -2c -2s 4s 3s 3c 0n 1c 1n

@@ -1,0 +1,53 @@
+#!/usr/bin/env python
+
+import sys
+import parser as pr
+import player as pl
+
+def main(argv):
+    # s = pr.parse_imp('music/implicita/bach/bach00.imp')
+    s = pr.parse_imp('music/implicita/grego/gre00.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre01.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre02.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre03.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre04.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre05.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre06.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre07.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre08.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre09.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre10.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre11.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre12.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre13.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre14.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre15.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre16.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre17.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre18.imp')
+    pl.play(s)
+    s = pr.parse_imp('music/implicita/grego/gre19.imp')
+    pl.play(s)
+    # s = pr.parse_imp('music/implicita/scot/scot12.imp')
+    pl.play(s)
+
+if __name__ == "__main__":
+    main(sys.argv)  
